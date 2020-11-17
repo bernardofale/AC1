@@ -1,0 +1,11 @@
+1-
+    a) 7 bytes
+    b) 0x10010008
+    c) máximo 5 elementos
+    d) 0x10010018
+    e) 28 bytes
+    f) L1:0x00400018    L2:0x00400038
+    g) vai iterar 4 vezes
+    h) 0000000000000110
+    i) 14
+    j) 0x10010018
